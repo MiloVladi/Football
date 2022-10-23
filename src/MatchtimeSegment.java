@@ -1,0 +1,3 @@
+public enum MatchtimeSegment {
+    PENALTY_SCHOOTOUT, EXTRATIME_TWO, EXTRATIME_ONE, HALF_TWO, HALF_ONE;
+}
